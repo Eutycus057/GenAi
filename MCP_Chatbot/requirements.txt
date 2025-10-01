@@ -1,0 +1,6 @@
+streamlit
+jaclang
+jaclang-streamlit
+fastapi
+uvicorn
+litellm
