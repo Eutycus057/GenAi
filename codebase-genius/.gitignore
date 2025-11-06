@@ -1,0 +1,6 @@
+venv/
+outputs/
+.env
+__pycache__/
+*.pyc
+temp_repos/S
